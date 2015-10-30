@@ -10,7 +10,6 @@ The ["official" website is a great resource.](https://git-scm.com/doc) However, 
 
 Also, [great cheat-sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf).
 
-HEY I WANT TO ADD SOME STUFF!
 
  
 
