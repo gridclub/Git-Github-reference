@@ -12,9 +12,16 @@ Also, [great cheat-sheet](https://training.github.com/kit/downloads/github-git-c
 
 [And my
 slides.](https://docs.google.com/presentation/d/1U8_-Spls_EDIJdoPSTKPX1bD86hGiQ3T1oKnhj4VM6E/edit?usp=sharing)
- 
-To use git from Matlab, first install git from the links above. Then, download
+
+[And reasons to use version control](http://stackoverflow.com/questions/1408450/why-should-i-use-version-control)
+
+
+# Using git
+
+To use git from **Matlab**, first install git from the links above. Then, download
 [this](http://www.mathworks.com/matlabcentral/fileexchange/38600-git-matlab)
 and add it to matlab's path. 
 
+
+You can also use [git from within RStudio](https://support.rstudio.com/hc/en-us/articles/200532077-Version-Control-with-Git-and-SVN).
 
