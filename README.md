@@ -17,5 +17,4 @@ To use git from Matlab, first install git from the links above. Then, download
 [this](http://www.mathworks.com/matlabcentral/fileexchange/38600-git-matlab)
 and add it to matlab's path. 
 
-Add something to the file, and also this! Important.
 
