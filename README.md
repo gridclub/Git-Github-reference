@@ -10,6 +10,7 @@ The [official website is a great resource.](https://git-scm.com/doc) However, if
 
 Also, [great cheat-sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf).
 
+Random edit.
 
 [And reasons to use version control](http://stackoverflow.com/questions/1408450/why-should-i-use-version-control)
 
